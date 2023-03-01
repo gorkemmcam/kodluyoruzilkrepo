@@ -17,7 +17,7 @@ git clone https://github.com/cengizmataraci/kodluyoruzilkrepo.git
 
 Projeyi cloneladıktan sonra Visual Code proramını açınız.
 
-linux için:
+linux için;
 ```
 cd kodluyoruzilkrepo
 code .
