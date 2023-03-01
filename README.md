@@ -5,7 +5,7 @@ Kodluyoruz Frontend Eğitimi kapsamında açtığım ilk repo
 
 Bu repo [kodluyoruz](www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![github](kodluyoruzilkrepo/proje-görüntüsü.png)
+![github](proje-görüntüsü.png)
 
 ## Installation
 
@@ -30,3 +30,6 @@ Pull requestler kabul edilir.Büyük değişiklikler için lütfen önce neyi de
 ## License
 
 MIT
+
+
+[proje-görüntüsü.png]: proje-görüntüsü.png
